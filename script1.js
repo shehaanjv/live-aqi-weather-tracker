@@ -1,4 +1,4 @@
-const API_KEY = "9722676d3d4f7d9d41de4db8eb631f3f"; // Replace with your OpenWeather API key
+const API_KEY = "9722676d3d4f7d9d41de4db8eb631f3f"; 
 
 async function fetchData(city) {
     try {
